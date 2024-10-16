@@ -14,8 +14,9 @@ src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"
 - 🏆 Solved 1000+ problems on online coding platforms
 - 🤖 Interested in AI/ML 
 - 📚 Passionate about coding, app development, and problem-solving
-- 📔 Fun fact: I enjoy reading stories.
+- 📔 Fun fact: I am a Potterhead.
 - 📫 How to reach me: binoydipu@gmail.com
+- 📄 My CV: [here](https://drive.google.com/file/d/1FBotxLSdy8JhCD7Kha_crVykiF5qwdPn/view?usp=sharing)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/binoydipu)
